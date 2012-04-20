@@ -1,0 +1,9 @@
+﻿login admin aaa;503 INVALID LOGIN
+login admin admin;250 OK
+neznamyPrikaz;502 UNKNOWN COMMAND
+version;DATAINFO
+alias;DATAINFO
+noop;DATANULL
+uptime;DATAINFO
+quit;110 BYE
+poQuitu;DATANULL

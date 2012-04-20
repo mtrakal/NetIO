@@ -1,0 +1,9 @@
+C:\Users\trtkal\documents\visual studio 2010\Projects\NetIOTester\NetIOTester\bin\Debug\NetIOTester.exe
+C:\Users\trtkal\documents\visual studio 2010\Projects\NetIOTester\NetIOTester\bin\Debug\NetIOTester.pdb
+C:\Users\trtkal\documents\visual studio 2010\Projects\NetIOTester\NetIOTester\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\trtkal\documents\visual studio 2010\Projects\NetIOTester\NetIOTester\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\trtkal\documents\visual studio 2010\Projects\NetIOTester\NetIOTester\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\trtkal\documents\visual studio 2010\Projects\NetIOTester\NetIOTester\obj\x86\Debug\NetIOTester.exe
+C:\Users\trtkal\documents\visual studio 2010\Projects\NetIOTester\NetIOTester\obj\x86\Debug\NetIOTester.pdb
+C:\Users\trtkal\documents\visual studio 2010\Projects\NetIOTester\NetIOTester\obj\x86\Debug\NetIoTester.Form1.resources
+C:\Users\trtkal\documents\visual studio 2010\Projects\NetIOTester\NetIOTester\obj\x86\Debug\NetIoTester.Properties.Resources.resources

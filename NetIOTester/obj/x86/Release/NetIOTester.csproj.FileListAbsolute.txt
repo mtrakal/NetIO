@@ -1,0 +1,9 @@
+C:\Users\trtkal\Documents\Visual Studio 2010\Projects\NetIOTester\NetIOTester\bin\Release\NetIOTester.exe
+C:\Users\trtkal\Documents\Visual Studio 2010\Projects\NetIOTester\NetIOTester\bin\Release\NetIOTester.pdb
+C:\Users\trtkal\Documents\Visual Studio 2010\Projects\NetIOTester\NetIOTester\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\trtkal\Documents\Visual Studio 2010\Projects\NetIOTester\NetIOTester\obj\x86\Release\NetIoTester.Form1.resources
+C:\Users\trtkal\Documents\Visual Studio 2010\Projects\NetIOTester\NetIOTester\obj\x86\Release\NetIoTester.Properties.Resources.resources
+C:\Users\trtkal\Documents\Visual Studio 2010\Projects\NetIOTester\NetIOTester\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\trtkal\Documents\Visual Studio 2010\Projects\NetIOTester\NetIOTester\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\trtkal\Documents\Visual Studio 2010\Projects\NetIOTester\NetIOTester\obj\x86\Release\NetIOTester.exe
+C:\Users\trtkal\Documents\Visual Studio 2010\Projects\NetIOTester\NetIOTester\obj\x86\Release\NetIOTester.pdb
